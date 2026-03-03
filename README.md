@@ -1,12 +1,12 @@
 # Hi, I'm Oron 👋
 
-🏢 **Principal Engineer & iOS Tech Lead at [Gett](https://gett.com)** | 🤖 **AI-native mobile builder**
+🏢 **Principal Engineer & iOS Tech Lead at [Gett](https://gett.com)** | 🛠️ **Shipping apps by day, building dev tools by night**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![TCA](https://img.shields.io/badge/-TCA-8B5CF6?style=flat-square&logo=swift&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 > Exploring AI-powered development while shipping production iOS apps. Passionate about clean architecture, reactive patterns, and building tools that make developers' lives easier.
