@@ -15,6 +15,7 @@
 
 - 🖥️ **[Cousebara](https://github.com/oronbz/Cousebara)** - macOS menu bar app for monitoring GitHub Copilot premium interaction usage
 - 🎯 **[bitter](https://github.com/oronbz/bitter)** - LazyGit-style terminal UI for Bitrise CI
+- 📋 **[nag](https://github.com/oronbz/nag)** - LazyGit-style terminal UI for Apple Reminders
 - 🎹 **[piano-princess](https://github.com/oronbz/piano-princess)** - Habit tracker for my daughter's piano practice
 
 ## Featured Projects
