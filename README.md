@@ -5,9 +5,10 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![TCA](https://img.shields.io/badge/-TCA-8B5CF6?style=flat-square&logo=swift&logoColor=white)
+![RxSwift](https://img.shields.io/badge/-RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 > Exploring AI-powered development while shipping production iOS apps. Passionate about clean architecture, reactive patterns, and building tools that make developers' lives easier.
 
