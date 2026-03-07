@@ -13,6 +13,7 @@
 
 ## Current Projects
 
+- 🧩 **[Soduken](https://soduken.vercel.app)** - Cozy mobile-first Sudoku PWA built with Next.js
 - 📋 **[nag](https://github.com/oronbz/nag)** - LazyGit-style terminal UI for Apple Reminders
 - 🖥️ **[Cousebara](https://github.com/oronbz/Cousebara)** - macOS menu bar app for monitoring GitHub Copilot premium interaction usage
 - 🎯 **[bitter](https://github.com/oronbz/bitter)** - LazyGit-style terminal UI for Bitrise CI
