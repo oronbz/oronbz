@@ -49,12 +49,7 @@ AI-native iOS development · Clean architecture with TCA & SwiftUI · Terminal U
 
 ---
 
-<a href="https://github.com/oronbz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oronbz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&hide_rank=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=oronbz&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" />
-  </picture>
-</a>
+![GitHub Contribution Graph](https://ghchart.rshah.org/oronbz)
 
 ---
 
