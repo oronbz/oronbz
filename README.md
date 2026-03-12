@@ -1,48 +1,58 @@
-# Hi, I'm Oron 👋
+## Oron Ben Zvi
 
-🏢 **Principal Engineer & iOS Tech Lead at [Gett](https://gett.com)** | 🛠️ **Shipping apps by day, building dev tools by night**
+**Principal Engineer & iOS Tech Lead at [Gett](https://gett.com)**
+Building production iOS apps by day, crafting developer tools by night.
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![TCA](https://img.shields.io/badge/-TCA-8B5CF6?style=flat-square&logo=swift&logoColor=white)
-![RxSwift](https://img.shields.io/badge/-RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+`Swift` `SwiftUI` `TCA` `RxSwift` `Go` `TypeScript` `Claude Code`
 
-> Exploring AI-powered development while shipping production iOS apps. Passionate about clean architecture, reactive patterns, and building tools that make developers' lives easier.
+---
 
-## Current Projects
+### 🛠️ Things I've Been Building
 
-- 🔧 **[Skill Scraper](https://github.com/oronbz/skill-scraper)** - Chrome extension to install Claude Code skills from GitHub with one click
-- 🧩 **[Soduken](https://soduken.vercel.app)** - Cozy mobile-first Sudoku PWA built with Next.js
-- 📋 **[nag](https://github.com/oronbz/nag)** - LazyGit-style terminal UI for Apple Reminders
-- 🖥️ **[Cousebara](https://github.com/oronbz/Cousebara)** - macOS menu bar app for monitoring GitHub Copilot premium interaction usage
-- 🎯 **[bitter](https://github.com/oronbz/bitter)** - LazyGit-style terminal UI for Bitrise CI
-- 🎹 **[piano-princess](https://github.com/oronbz/piano-princess)** - Habit tracker for my daughter's piano practice
+<table>
+<tr><td>
 
-## Featured Projects
+**Developer Tools**
 
-- 📱 **[RxGithub](https://github.com/oronbz/RxGithub)** - MVVM example using RxSwift and Swinject (120+ stars)
-- 🔄 **[rxlivedata](https://github.com/oronbz/rxlivedata)** - RxLiveData: Kotlin extensions bringing Rx operators to LiveData
-- 🏡 **[homebridge-omxplayer](https://github.com/oronbz/homebridge-omxplayer)** - Play YouTube/videos/audio from your HomeBridge Raspberry Pi
-- 🤖 **[RxGithub-Android](https://github.com/oronbz/RxGithub-Android)** - MVVM using Architectural Components and Dagger 2
-- 🧩 **[TCAGithub](https://github.com/oronbz/TCAGithub)** - A successor for RxGitHub using TCA and SwiftUI
-- 📺 **[YoutubeMusicRevived](https://github.com/oronbz/YoutubeMusicRevived)** - Chrome extension to revive the removed YouTube Music tab
+[**Skill Scraper**](https://github.com/oronbz/skill-scraper) — Chrome extension to install Claude Code skills with one click
+[**nag**](https://github.com/oronbz/nag) — LazyGit-style TUI for Apple Reminders
+[**bitter**](https://github.com/oronbz/bitter) — LazyGit-style TUI for Bitrise CI
+[**Cousebara**](https://github.com/oronbz/Cousebara) — Menu bar app for GitHub Copilot usage tracking
 
-## GitHub Activity
+</td><td>
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/oronbz)
+**Apps & Fun**
 
-## What I'm Working On
+[**Soduken**](https://soduken.vercel.app) — Cozy mobile-first Sudoku PWA
+[**piano-princess**](https://github.com/oronbz/piano-princess) — Habit tracker for my daughter's piano practice
+[**homebridge-omxplayer**](https://github.com/oronbz/homebridge-omxplayer) — Play YouTube from your HomeBridge Pi
+[**YoutubeMusicRevived**](https://github.com/oronbz/YoutubeMusicRevived) — Chrome ext to revive the YouTube Music tab
 
-- **AI-native development** - Integrating AI tools into iOS development workflows
-- **Clean architecture** - Building scalable, testable mobile apps with TCA & SwiftUI
-- **Developer tooling** - Creating CLI tools and menu bar apps to boost productivity
-- **Open source** - Sharing patterns and examples for the iOS community
+</td></tr>
+</table>
 
-## Connect
+### 📚 Open Source Highlights
 
-[![Twitter](https://img.shields.io/badge/-@oronbz-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/oronbz)
-[![LinkedIn](https://img.shields.io/badge/-Oron_Ben_Zvi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oronbz)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oronbz)
+| Project | What | Stars |
+|---------|------|-------|
+| [RxGithub](https://github.com/oronbz/RxGithub) | MVVM example with RxSwift + Swinject | ⭐ 120+ |
+| [TCAGithub](https://github.com/oronbz/TCAGithub) | Spiritual successor using TCA + SwiftUI | |
+| [rxlivedata](https://github.com/oronbz/rxlivedata) | Kotlin extensions — Rx operators for LiveData | |
+| [RxGithub-Android](https://github.com/oronbz/RxGithub-Android) | MVVM with Arch Components + Dagger 2 | |
+
+### 🎯 Interests
+
+AI-native iOS development · Clean architecture with TCA & SwiftUI · Terminal UIs · Developer productivity tools
+
+---
+
+<a href="https://github.com/oronbz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oronbz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&hide_rank=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oronbz&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" />
+  </picture>
+</a>
+
+---
+
+[Twitter](https://twitter.com/oronbz) · [LinkedIn](https://linkedin.com/in/oronbz) · [GitHub](https://github.com/oronbz)
