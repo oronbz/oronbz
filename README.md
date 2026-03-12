@@ -36,12 +36,12 @@ Building production iOS apps by day, crafting developer tools by night.
 
 ### 📚 Open Source Highlights
 
-| Project | What | Stars |
-|---------|------|-------|
-| [RxGithub](https://github.com/oronbz/RxGithub) | MVVM example with RxSwift + Swinject | ⭐ 120+ |
-| [TCAGithub](https://github.com/oronbz/TCAGithub) | Spiritual successor using TCA + SwiftUI | |
-| [rxlivedata](https://github.com/oronbz/rxlivedata) | Kotlin extensions — Rx operators for LiveData | |
-| [RxGithub-Android](https://github.com/oronbz/RxGithub-Android) | MVVM with Arch Components + Dagger 2 | |
+| Project | What |
+|---------|------|
+| [RxGithub](https://github.com/oronbz/RxGithub) | MVVM example with RxSwift + Swinject |
+| [TCAGithub](https://github.com/oronbz/TCAGithub) | Spiritual successor using TCA + SwiftUI |
+| [rxlivedata](https://github.com/oronbz/rxlivedata) | Kotlin extensions — Rx operators for LiveData |
+| [RxGithub-Android](https://github.com/oronbz/RxGithub-Android) | MVVM with Arch Components + Dagger 2 |
 
 ### 🎯 Interests
 
