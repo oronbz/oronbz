@@ -25,6 +25,7 @@ Building production iOS apps by day, crafting developer tools by night.
 
 **Apps & Fun**
 
+- [**Sitter**](https://github.com/oronbz/Sitter) — Menu bar sit/stand timer for standing desks
 - [**Soduken**](https://soduken.vercel.app) — Cozy mobile-first Sudoku PWA
 - [**piano-princess**](https://github.com/oronbz/piano-princess) — Habit tracker for my daughter's piano practice
 - [**homebridge-omxplayer**](https://github.com/oronbz/homebridge-omxplayer) — Play YouTube from your HomeBridge Pi
