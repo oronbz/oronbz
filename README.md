@@ -9,6 +9,7 @@ Building production iOS apps by day, crafting developer tools by night.
 
 ### Developer Tools
 
+> [**Hilan Auto-Fill**](https://github.com/oronbz/hilan) — Chrome extension to auto-fill the Hilan attendance form\
 > [**Skill Scraper**](https://github.com/oronbz/skill-scraper) — Install Claude Code skills with one click\
 > [**nag**](https://github.com/oronbz/nag) — LazyGit-style TUI for Apple Reminders\
 > [**bitter**](https://github.com/oronbz/bitter) — LazyGit-style TUI for Bitrise CI\
