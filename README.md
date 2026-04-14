@@ -14,7 +14,7 @@ role     = "Principal Engineer & iOS Tech Lead"
 company  = "Gett"
 location = "Tel Aviv, IL"
 stack    = [ Swift, SwiftUI, TCA, RxSwift, Go, TypeScript ]
-editor   = "Claude Code"
+editor   = "neovim"
 motto    = "Production iOS by day, developer tools by night"
 ```
 
