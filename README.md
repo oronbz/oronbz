@@ -9,6 +9,7 @@ Building production iOS apps by day, crafting developer tools by night.
 
 ### Developer Tools
 
+> [**Tour of Go 2.0**](https://oronbz.github.io/tour-of-go-2.0/) — A modern, engaging redesign of Go's official tour\
 > [**Hilan Auto-Fill**](https://github.com/oronbz/hilan) — Chrome extension to auto-fill the Hilan attendance form\
 > [**Skill Scraper**](https://github.com/oronbz/skill-scraper) — Install Claude Code skills with one click\
 > [**nag**](https://github.com/oronbz/nag) — LazyGit-style TUI for Apple Reminders\
@@ -17,7 +18,6 @@ Building production iOS apps by day, crafting developer tools by night.
 
 ### Apps & Fun
 
-> [**Tour of Go 2.0**](https://oronbz.github.io/tour-of-go-2.0/) — A modern, engaging redesign of Go's official tour\
 > [**Sitter**](https://github.com/oronbz/Sitter) — Menu bar sit/stand timer for standing desks\
 > [**Soduken**](https://soduken.vercel.app) — Cozy mobile-first Sudoku PWA\
 > [**piano-princess**](https://github.com/oronbz/piano-princess) — Habit tracker for my daughter's piano practice\
