@@ -7,17 +7,17 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═════╝ ╚══════╝╚═╝  ╚═══╝    ╚══════╝  ╚═══╝  ╚═╝
 ```
 
-```properties
+<pre>
 # ~/.profile
 
-role     = "Principal Engineer & iOS Tech Lead"
+role     = "Principal Engineer &amp; iOS Tech Lead"
 company  = "Gett"
 location = "Tel Aviv, IL"
 stack    = [ Swift, SwiftUI, TCA, RxSwift, Go, TypeScript ]
 editor   = "Neovim"
 motto    = "Production iOS by day, developer tools by night"
-dotfiles = "https://github.com/oronbz/dotfiles"
-```
+dotfiles = "<a href="https://github.com/oronbz/dotfiles">github.com/oronbz/dotfiles</a>"
+</pre>
 
 ---
 
