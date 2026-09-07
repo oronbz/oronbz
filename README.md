@@ -26,6 +26,7 @@ motto    = "Production iOS by day, developer tools by night"
 drwxr-xr-x  <a href="https://oronbz.github.io/tour-of-go-2.0/">tour-of-go-2.0</a>    Modern, engaging redesign of Go's official tour
 drwxr-xr-x  <a href="https://github.com/oronbz/hilan">hilan</a>             Chrome extension to auto-fill Hilan attendance
 drwxr-xr-x  <a href="https://github.com/oronbz/skill-scraper">skill-scraper</a>     Install Claude Code skills with one click
+drwxr-xr-x  <a href="https://github.com/oronbz/dotfiles">dotfiles</a>          macOS terminal setup: zsh, ghostty, herdr, LazyVim
 drwxr-xr-x  <a href="https://github.com/oronbz/nag">nag</a>               LazyGit-style TUI for Apple Reminders
 drwxr-xr-x  <a href="https://github.com/oronbz/bitter">bitter</a>            LazyGit-style TUI for Bitrise CI
 drwxr-xr-x  <a href="https://github.com/oronbz/Cousebara">cousebara</a>         Menu bar app for Copilot usage tracking
