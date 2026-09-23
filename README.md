@@ -30,6 +30,7 @@ drwxr-xr-x  <a href="https://github.com/oronbz/skill-scraper">skill-scraper</a> 
 drwxr-xr-x  <a href="https://github.com/oronbz/nag">nag</a>               LazyGit-style TUI for Apple Reminders
 drwxr-xr-x  <a href="https://github.com/oronbz/bitter">bitter</a>            LazyGit-style TUI for Bitrise CI
 drwxr-xr-x  <a href="https://github.com/oronbz/Cousebara">cousebara</a>         Menu bar app for Copilot usage tracking
+drwxr-xr-x  <a href="https://github.com/oronbz/herdr-claude-tab-rename">herdr-tab-rename</a>  Herdr tabs named after your Claude Code sessions
 </pre>
 
 ---
